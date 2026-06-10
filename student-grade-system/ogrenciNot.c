@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-
 //Ogrenci Not Uygulamasi -(Ogrenci Notunun 0 Girilemeyecegi Varsayilmaktadir)-
 typedef struct{
 
